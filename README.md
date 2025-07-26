@@ -1,1 +1,1 @@
-# HopeQuestSagaIntroVideo[![Video Title](https://img.youtube.com/vi/[VIDEO_ID](https://www.youtube.com/watch?v=tEcH49nIboo)/0.jpg)](https://www.youtube.com/watch?v=[VIDEO_ID](https://www.youtube.com/watch?v=tEcH49nIboo))
+[![Video Title](https://img.youtube.com/vi/https://www.youtube.com/watch?v=tEcH49nIboo/0.jpg)](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=tEcH49nIboo)
